@@ -21,11 +21,11 @@ To run this analysis, you'll need Python 3 and the libraries listed in `requirem
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/binhola/cosmo_SNIA.git
     cd cosmic_SNIA
     ```
 
-2.  **Create a virtual environment (recommended):**
+2.  **Create a virtual environment:**
     ```bash
     python3 -m venv venv
     source venv/bin/activate
